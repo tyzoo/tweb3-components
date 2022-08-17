@@ -1,7 +1,7 @@
 {
   "name": "@tyzoo/tweb3-components",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/tyzoo"
+    "@tyzoo:registry": "https://npm.pkg.github.com"
   },
   "version": "1.0.0",
   "description": "",
