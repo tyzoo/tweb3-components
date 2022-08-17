@@ -1,0 +1,21 @@
+{
+  "name": "tweb3-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@tyzoo/tweb3-components"
+  },
+  "keywords": [
+    "web3",
+    "tailwinds",
+    "react",
+    "components"
+  ],
+  "author": "Tyler Russell",
+  "license": "ISC"
+}
