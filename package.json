@@ -1,7 +1,7 @@
 {
-  "name": "tweb3-components",
+  "name": "@tyzoo/tweb3-components",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://npm.pkg.github.com/tyzoo"
   },
   "version": "1.0.9",
   "description": "",
